@@ -1,1 +1,1 @@
-pandoc.exe ./src/report-beginning.md ./src/main.md ./src/report-end.md -o report-raw.docx --lua-filter ./scripts/linebreaks.lua --filter pandoc-crossref --citeproc --reference-doc ./template/report.docx
+pandoc.exe ./src/report-beginning.md ./src/main.md ./src/report-end.md -o document-raw.docx --lua-filter ./scripts/linebreaks.lua --filter pandoc-crossref --citeproc --reference-doc ./template/report.docx

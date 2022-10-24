@@ -1,6 +1,6 @@
 ---
 csl: ./src/gost-r-7-0-5-2008-numeric-iaa.csl
-bibliography: ./src/demo.bib
+bibliography: ./src/report.bib
 references:
     - id: fenner2012a
       title: One-click science marketing
